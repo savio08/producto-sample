@@ -1,0 +1,1146 @@
+html {
+    height: 0px;
+}
+
+body {
+    margin: 0;
+}
+
+h2 {
+    font-family: 'Montserrat', Bold 700, sans-serif;
+    color: rgba(0, 0, 0, 0.76);
+    font-size: 2.8rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-family: 'Montserrat', Regular 400, sans-serif;
+    color: rgba(44, 1, 44, 0.911);
+}
+
+
+/* Navbar */
+
+.navbar {
+    background-color: #312c51 !important;
+    z-index: +2;
+}
+
+.logo {
+    width: 50px;
+    color: white;
+}
+
+.navbar-collapse {
+    z-index: +2;
+    background-color: #312c51;
+    text-align: center;
+}
+
+.navbar-toggler-icon {
+    width: 50px;
+    height: 50px;
+}
+
+p {
+    font-size: 1.2rem;
+    font-family: 'Ubuntu', sans-serif;
+    color: rgba(0, 0, 0, 0.705);
+}
+
+.nav-item a {
+    font-size: 1.3rem;
+    color: white !important;
+    font-family: 'Nova Flat', cursive;
+    padding: 10px 30px !important;
+    height: 50px;
+}
+
+.nav-item a:hover {
+    color: rgb(41, 0, 75) !important;
+    background-color: #ffffff;
+}
+
+.navbar-brand {
+    color: #FFEFFF !important;
+    margin-left: 2%;
+    font-size: 2rem;
+    font-family: 'Croissant One', cursive;
+}
+
+
+/* Top container */
+
+.top-contanier {
+    background-color: #312c51;
+    height: 420px;
+    padding: 0 0 42% 0;
+    margin: 0;
+}
+
+.btn1 {
+    position: relative;
+    left: 16%;
+    top: 210px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.32rem;
+    width: 12%;
+}
+
+.login:hover {
+    color: #FFEFFF;
+}
+
+.android-img {
+    width: 17%;
+    position: relative;
+    margin-right: 10px;
+}
+
+.main-info-1 {
+    font-size: 2.4rem;
+    width: 40%;
+    position: relative;
+    top: 140px;
+    left: 35px;
+    text-align: center;
+    font-family: 'Montserrat', Semi-bold 600, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.main-info-2 {
+    font-size: 1.6rem;
+    width: 40%;
+    position: relative;
+    top: 180px;
+    left: 35px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(255, 255, 255, 0.712);
+}
+
+.front-img {
+    float: right;
+    width: 55%;
+    margin-top: 4%;
+    position: relative;
+    top: 20px;
+    right: 30px;
+}
+
+
+/* Middle container 1 */
+
+.one-image {
+    width: 32%;
+    position: relative;
+    top: 110px;
+    left: 5%;
+}
+
+#benifits {
+    position: relative;
+    top: 50px;
+    left: 25px;
+    width: 50%;
+    padding-top: 2.5%;
+    text-align: center;
+}
+
+.mdiv-11 {
+    width: 40%;
+    float: right;
+    position: relative;
+    margin-right: 8%;
+    bottom: 430px;
+}
+
+.middle-container1 {
+    background-color: whitesmoke;
+    padding-bottom: 10%;
+    z-index: +1;
+}
+
+.check-img {
+    width: 5%;
+}
+
+
+/* Middle container 2 */
+
+.middle-container2 {
+    background-color: #5A5673;
+    height: 1005px;
+}
+
+.middle-container2 p {
+    color: #ffefffde;
+}
+
+.middle-container2 h2 {
+    color: aliceblue;
+}
+
+#provides {
+    position: relative;
+    width: 80% !important;
+    top: 120px;
+    left: -3% !important;
+    text-align: center !important;
+    font-size: 3.5rem;
+    padding-top: 2%;
+}
+
+.three-image {
+    width: 38%;
+    position: relative;
+    float: right;
+    left: 42%;
+}
+
+.mdiv-22 {
+    width: 40%;
+    float: left;
+    margin-left: 6%;
+    bottom: 640px;
+    position: relative;
+}
+
+.pricing-container {
+    padding-bottom: 30px !important;
+}
+
+.pricing-container h2 {
+    margin: 3% auto 5%;
+    text-align: center !important;
+    position: absolute;
+    width: 45%;
+    left: 27%;
+}
+
+.pricing-container p {
+    margin: 2% auto;
+    position: relative;
+    text-align: center;
+    width: 60%;
+}
+
+.pricing-img {
+    width: 40%;
+    position: relative;
+    right: 18%;
+    margin: 2% 0 1%;
+    margin-top: 12%;
+}
+
+
+/* Get started Div */
+
+.get-started {
+    background-color: #838096;
+    padding: 1px 0 50px;
+}
+
+.get-started h2 {
+    color: white;
+    margin: 5% auto 0;
+    text-align: center;
+    width: 70%;
+}
+
+.btn2 {
+    margin: 3% 0 1%;
+    position: relative;
+    font-family: 'Ubuntu', sans-serif;
+    left: 44%;
+    width: 12%;
+}
+
+
+/* Footer */
+
+.footer {
+    background-color: white;
+    color: rgb(206, 202, 202);
+    margin: 2% auto !important;
+    width: 90%;
+    text-align: center;
+}
+
+.copy {
+    font-size: 0.8rem;
+    font-family: cursive;
+    color: gray;
+    width: 100px;
+    position: relative;
+    top: 15%;
+    margin: 0 auto;
+    padding-bottom: 0.5%;
+    width: 100%;
+    text-align: center;
+}
+
+.copy h6 {
+    font-size: 0.7rem;
+}
+
+.footer a {
+    font-size: 0.8rem;
+    color: black;
+    margin: 1% auto !important;
+    padding: 0 60px;
+    position: relative;
+    top: 2%;
+    margin: 0 auto;
+}
+
+
+/* Media Querry break point */
+
+@media(max-width: 1480px) {
+    .middle-container2 {
+        height: 1000px !important;
+    }
+    .main-info-1 {
+        font-size: 2.3rem;
+        width: 40%;
+        position: relative;
+        top: 140px;
+        left: 35px;
+        text-align: center;
+        font-family: 'Montserrat', Semi-bold 600, sans-serif;
+        color: rgb(255, 255, 255);
+    }
+    .main-info-2 {
+        font-size: 1.5rem;
+        width: 40%;
+        position: relative;
+        top: 180px;
+        left: 35px;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(255, 255, 255, 0.712);
+    }
+    .btn1 {
+        position: relative;
+        left: 16%;
+        top: 210px;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 1.32rem;
+        width: 14%;
+    }
+    .btn2 {
+        width: 14%;
+    }
+    .mdiv-22 {
+        width: 40%;
+        float: left;
+        margin-left: 6%;
+        position: relative;
+        bottom: 620px;
+    }
+    .three-image {
+        width: 38%;
+        position: relative;
+        float: right;
+        left: 42%;
+        top: 100px;
+    }
+}
+
+@media(max-width: 1440px) {
+    .mdiv-22 {
+        width: 40%;
+        float: left;
+        margin-left: 6%;
+        bottom: 550px;
+        position: relative;
+    }
+}
+
+@media(max-width: 1300px) {
+    .middle-container1 {
+        padding-bottom: 15%;
+    }
+    #provides {
+        top: 100px;
+        left: 0.5% !important;
+    }
+}
+
+@media(max-width: 1290px) {
+    .main-info-1 {
+        font-size: 2.3rem;
+        width: 40%;
+        position: relative;
+        top: 100px;
+        left: 35px;
+        text-align: center;
+        font-family: 'Montserrat', Semi-bold 600, sans-serif;
+        color: rgb(255, 255, 255);
+    }
+    .main-info-2 {
+        font-size: 1.5rem;
+        width: 40%;
+        position: relative;
+        top: 140px;
+        left: 35px;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(255, 255, 255, 0.712);
+    }
+    .btn1 {
+        position: relative;
+        left: 16%;
+        top: 170px;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 1.32rem;
+        width: 14%;
+    }
+    .btn2 {
+        width: 13%;
+    }
+    .mdiv-11 {
+        width: 40%;
+        float: right;
+        position: relative;
+        margin-right: 8%;
+        bottom: 410px;
+    }
+    .middle-container2 {
+        height: 880px;
+    }
+    .mdiv-22 {
+        width: 40%;
+        float: left;
+        margin-left: 6%;
+        bottom: 540px;
+        position: relative;
+    }
+}
+
+@media(max-width: 1240px) {
+    .main-info-1 {
+        font-size: 2.2rem;
+        width: 40%;
+        top: 110px;
+        left: 35px;
+        text-align: center;
+        font-family: 'Montserrat', Semi-bold 600, sans-serif;
+        color: rgb(255, 255, 255);
+    }
+    .main-info-2 {
+        font-size: 1.4rem;
+        width: 40%;
+        position: relative;
+        top: 140px;
+        left: 35px;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(255, 255, 255, 0.712);
+    }
+    .btn1 {
+        position: relative;
+        left: 16%;
+        top: 160px;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 1.32rem;
+        width: 14%;
+    }
+    .btn2 {
+        width: 14%;
+    }
+    .mdiv-11 {
+        width: 40%;
+        float: right;
+        position: relative;
+        margin-right: 8%;
+        bottom: 400px;
+    }
+    .middle-container2 {
+        height: 880px;
+    }
+    .mdiv-22 {
+        width: 40%;
+        float: left;
+        margin-left: 6%;
+        bottom: 500px;
+        position: relative;
+    }
+    .middle-container1 {
+        padding-bottom: 20%;
+    }
+    .middle-container2 {
+        height: 830px;
+    }
+    .pricing-container h2 {
+        font-size: 2.5rem;
+    }
+}
+
+@media(max-width: 1200px) {
+    .main-info-1 {
+        font-size: 2.1rem;
+        width: 40%;
+        position: relative;
+        top: 80px;
+        left: 35px;
+        text-align: center;
+        font-family: 'Montserrat', Semi-bold 600, sans-serif;
+        color: rgb(255, 255, 255);
+    }
+    .main-info-2 {
+        font-size: 1.3rem;
+        width: 40%;
+        position: relative;
+        top: 120px;
+        left: 35px;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(255, 255, 255, 0.712);
+    }
+    .btn1 {
+        position: relative;
+        left: 16%;
+        top: 140px;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 1.2rem;
+        width: 14.5%;
+    }
+}
+
+@media(max-width: 1170px) {
+    .btn1 {
+        position: relative;
+        left: 16%;
+        top: 140px;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 1.2rem;
+        width: 16%;
+    }
+    .btn2 {
+        margin: 2% 0;
+        position: relative;
+        left: 41%;
+        font-size: 1.2rem;
+        width: 18%;
+    }
+    .mdiv-11 h3 {
+        font-size: 1.4rem;
+    }
+    .mdiv-11 p {
+        font-size: 1.1rem;
+    }
+    .mdiv-11 {
+        width: 40%;
+        float: right;
+        position: relative;
+        margin-right: 8%;
+        bottom: 360px;
+    }
+    .mdiv-22 h3 {
+        font-size: 1.4rem;
+    }
+    .mdiv-22 p {
+        font-size: 1.1rem;
+    }
+    .mdiv-22 {
+        bottom: 470px;
+    }
+}
+
+@media(max-width: 1100px) {
+    .mdiv-22 {
+        bottom: 440px;
+    }
+}
+
+@media(max-width: 1100px) {
+    .main-info-1 {
+        font-size: 2rem;
+        width: 40%;
+        position: relative;
+        top: 70px;
+        left: 35px;
+        text-align: center;
+        font-family: 'Montserrat', Semi-bold 600, sans-serif;
+        color: rgb(255, 255, 255);
+    }
+    .main-info-2 {
+        font-size: 1.2rem;
+        width: 40%;
+        position: relative;
+        top: 110px;
+        left: 35px;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(255, 255, 255, 0.712);
+    }
+    .btn1 {
+        position: relative;
+        left: 16%;
+        top: 140px;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 1.2rem;
+        width: 15%;
+    }
+    .benifits-heading {
+        font-size: 2.5rem;
+    }
+    .provides-heading {
+        font-size: 2.5rem;
+    }
+    .btn2 {
+        margin: 2% 0;
+        position: relative;
+        left: 41%;
+        font-size: 1.2rem;
+        width: 18%;
+    }
+}
+
+@media(max-width: 1050px) {
+    .main-info-1 {
+        font-size: 2rem;
+        width: 40%;
+        position: relative;
+        top: 70px;
+        left: 35px;
+        text-align: center;
+        font-family: 'Montserrat', Semi-bold 600, sans-serif;
+        color: rgb(255, 255, 255);
+    }
+    .main-info-2 {
+        font-size: 1.2rem;
+        width: 40%;
+        position: relative;
+        top: 110px;
+        left: 35px;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(255, 255, 255, 0.712);
+    }
+    .btn1 {
+        position: relative;
+        left: 16%;
+        top: 140px;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 1.2rem;
+        width: 16%;
+    }
+    .mdiv-11 {
+        width: 40%;
+        float: right;
+        position: relative;
+        margin-right: 8%;
+        bottom: 330px;
+    }
+    .mdiv-22 {
+        bottom: 420px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .logo {
+        width: 50px;
+    }
+    .nav-item a {
+        font-size: 2rem !important;
+        color: white !important;
+        font-family: 'Nova Flat', cursive;
+        padding: 25px 30px !important;
+        height: 50px;
+        margin-bottom: 0.5%;
+    }
+    .nav-link {
+        height: 90px !important;
+    }
+    .top-contanier {
+        position: relative;
+        height: 1290px;
+    }
+    .front-img {
+        width: 80%;
+        position: relative;
+        right: 10%;
+    }
+    .main-info-1 {
+        position: absolute;
+        width: 80%;
+        top: 60%;
+        left: 10%;
+        text-align: center;
+        font-size: 3rem;
+        display: block;
+    }
+    .main-info-2 {
+        position: absolute;
+        width: 60%;
+        left: 20%;
+        top: 73%;
+        text-align: center;
+        font-size: 2rem;
+        margin: 2% auto;
+    }
+    .btn1 {
+        position: absolute;
+        margin: 0 auto;
+        left: 40%;
+        top: 90%;
+        width: 20%;
+        height: 60px;
+        font-size: 1.5rem;
+    }
+    .android-img {
+        width: 14%;
+        position: relative;
+        margin-right: 10px;
+    }
+    .middle-container1 {
+        height: 2050px;
+        position: sticky;
+    }
+    #benifits {
+        position: relative;
+        width: 90%;
+        top: 50px;
+        left: 7%;
+        margin: 0;
+        margin-bottom: 5%;
+        text-align: center;
+    }
+    .benifits-heading {
+        font-size: 3.5rem;
+    }
+    .one-image {
+        position: relative;
+        width: 60%;
+        left: 20%;
+        top: 100px;
+        margin-bottom: 5%;
+    }
+    .mdiv-11 {
+        position: relative;
+        top: 150px;
+        margin: 0 auto;
+        right: 15%;
+        width: 70%;
+        text-align: center;
+    }
+    .mdiv-11 h3 {
+        font-size: 2.7rem;
+        margin-bottom: 2%;
+    }
+    .mdiv-11 p {
+        margin: 0 auto;
+        font-size: 2rem;
+        margin-bottom: 4%;
+    }
+    .middle-container2 {
+        height: 2250px !important;
+    }
+    #provides {
+        position: relative;
+        width: 80% !important;
+        top: 20px;
+        left: 10% !important;
+        text-align: center !important;
+        font-size: 3.5rem;
+    }
+    .three-image {
+        position: relative;
+        left: -14%;
+        width: 70%;
+        top: -90px;
+        margin: 0 auto;
+    }
+    .mdiv-22 {
+        position: relative;
+        top: -5%;
+        left: 14%;
+        margin: 0 auto;
+        width: 70%;
+        text-align: center;
+        font-size: 3rem;
+    }
+    .mdiv-22 h3 {
+        font-size: 2.7rem;
+        margin-bottom: 2%;
+    }
+    .mdiv-22 p {
+        margin: 0 auto;
+        font-size: 2rem;
+        margin-bottom: 4%;
+    }
+    .check-img {
+        width: 7%;
+    }
+    .pricing-container {
+        position: relative;
+        height: 1000px;
+    }
+    .pricing-container h2 {
+        position: relative;
+        width: 80%;
+        text-align: center;
+        margin: 6% 0 6%;
+        left: 10%;
+        font-size: 3rem;
+    }
+    .pricing-img {
+        width: 76%;
+        left: 10%;
+        position: relative;
+        top: -6%;
+    }
+    .pricing-container p {
+        font-size: 1.4rem;
+        font-family: 'Ubuntu', sans-serif;
+        color: rgba(0, 0, 0, 0.705);
+        width: 70%;
+    }
+    .get-started {
+        padding: 1px 0 50px;
+    }
+    .get-started h2 {
+        font-size: 2rem;
+    }
+    .btn2 {
+        position: relative;
+        top: 20px;
+        left: 40%;
+        width: 20%;
+        width: 20%;
+        height: 55px;
+        font-size: 1.5rem;
+    }
+    .copy {
+        width: 90%;
+        position: relative;
+        left: 0.8%;
+    }
+    .copy h6 {
+        font-size: 0.6rem;
+        text-align: center;
+    }
+}
+
+@media(max-width: 940px) {
+    .main-info-1 {
+        top: 55%;
+    }
+    .main-info-2 {
+        top: 70%;
+    }
+    .btn1 {
+        top: 88%;
+    }
+}
+
+@media(max-width: 890px) {
+    .btn1 {
+        width: 21%;
+    }
+    .btn2 {
+        width: 21%;
+    }
+    .three-image {
+        top: -80px;
+    }
+}
+
+@media(max-width: 850px) {
+    .btn1 {
+        width: 23%;
+        left: 39%;
+    }
+    .btn2 {
+        width: 23%;
+    }
+    .main-info-1 {
+        top: 50%;
+    }
+    .main-info-2 {
+        top: 65%;
+    }
+    .btn1 {
+        top: 83%;
+        left: 40%;
+    }
+}
+
+@media(max-width: 780px) {
+    .btn1 {
+        width: 25%;
+        left: 37.5% !important;
+        top: 88%;
+    }
+    .btn2 {
+        width: 25%;
+    }
+    .main-info-1 {
+        top: 47%;
+    }
+    .main-info-2 {
+        top: 66%;
+    }
+    .footer a {
+        font-size: 0.8rem;
+        color: black;
+        margin: 1% auto !important;
+        padding: 0 35px;
+        position: relative;
+        top: 2%;
+        margin: 0 auto;
+    }
+}
+
+@media(max-width: 715px) {
+    .btn1 {
+        width: 30%;
+        left: 35.5% !important;
+    }
+    .btn2 {
+        width: 30%;
+        left: 35%;
+    }
+    .main-info-1 {
+        top: 43%;
+    }
+    .main-info-2 {
+        top: 62%;
+    }
+    .three-image {
+        top: -20px !important;
+    }
+    .middle-container1 {
+        height: 1700px;
+        position: sticky;
+    }
+    .mdiv-11 {
+        position: relative;
+        top: 150px;
+        margin: 0 auto;
+        right: 15%;
+        width: 70%;
+        text-align: center;
+    }
+    .mdiv-11 h3 {
+        font-size: 2.7rem;
+        margin-bottom: 5%;
+    }
+    .mdiv-11 p {
+        margin: 0 auto;
+        font-size: 1.5rem;
+        margin-bottom: 4%;
+    }
+    .middle-container2 {
+        height: 1870px !important;
+    }
+    .mdiv-22 {
+        position: relative;
+        top: -1%;
+        left: 14%;
+        margin: 0 auto;
+        width: 70%;
+        text-align: center;
+        font-size: 3rem;
+    }
+    .mdiv-22 h3 {
+        font-size: 2.7rem;
+        margin-bottom: 5%;
+    }
+    .mdiv-22 p {
+        margin: 0 auto;
+        font-size: 1.5rem;
+        margin-bottom: 4%;
+    }
+    .pricing-container {
+        height: 900px;
+    }
+    .middle-container1 {
+        height: 1650px !important;
+        position: sticky;
+    }
+}
+
+@media(max-width: 660px) {
+    .btn2 {
+        width: 35%;
+    }
+    .mdiv-22 h3 {
+        font-size: 2.5rem;
+    }
+    .mdiv-11 h3 {
+        font-size: 2.5rem;
+    }
+    .main-info-1 {
+        top: 45%;
+        width: 80%;
+    }
+    .main-info-2 {
+        top: 68%;
+        width: 80%;
+        left: 10%;
+    }
+    .btn1 {
+        top: 87%;
+        left: 32.5% !important;
+        width: 35%;
+    }
+    .top-contanier {
+        position: relative;
+        height: 1100px;
+    }
+    .middle-container1 {
+        height: 1650px !important;
+        position: sticky;
+    }
+    .middle-container2 {
+        height: 1870px !important;
+    }
+}
+
+@media(max-width: 637px) {
+    .middle-container1 {
+        height: 1650px !important;
+        position: sticky;
+    }
+    .get-started h2 {
+        font-size: 2rem;
+        width: 90% !important;
+    }
+    .benifits-heading {
+        font-size: 3rem;
+    }
+    .provides-heading {
+        font-size: 3rem !important;
+    }
+    .pricing-container h2 {
+        font-size: 2.2rem;
+    }
+    .pricing-container {
+        height: 800px !important;
+    }
+    .btn1 {
+        top: 86%;
+        left: 32.5% !important;
+        width: 35%;
+    }
+    .main-info-1 {
+        top: 41%;
+    }
+    .main-info-2 {
+        top: 65%;
+    }
+}
+
+@media(max-width: 580px) {
+    .middle-container1 {
+        height: 1620px !important;
+        position: sticky;
+    }
+    .middle-container2 {
+        height: 1920px !important;
+    }
+    .btn1 {
+        top: 90%;
+        left: 32.5% !important;
+        width: 35%;
+    }
+    .main-info-2 {
+        top: 66%;
+    }
+    .pricing-container h2 {
+        font-size: 2.1rem;
+    }
+    .pricing-container {
+        height: 790px !important;
+    }
+    .btn2 {
+        left: 32.5% !important;
+        width: 35%;
+    }
+}
+
+@media(max-width: 560px) {
+    .middle-container1 {
+        height: 1690px !important;
+        position: sticky;
+    }
+    .benifits-heading {
+        font-size: 2.9rem;
+    }
+    .provides-heading {
+        font-size: 2.9rem !important;
+    }
+    .footer {
+        width: 95%;
+    }
+}
+
+@media(max-width: 535px) {
+    .benifits-heading {
+        font-size: 2.8rem;
+    }
+    .provides-heading {
+        font-size: 2.8rem;
+    }
+    .pricing-container h2 {
+        font-size: 2rem;
+    }
+    .middle-container1 {
+        height: 1625px !important;
+        position: sticky;
+    }
+    .middle-container2 {
+        height: 1900px !important;
+    }
+    .footer {
+        width: 100%;
+    }
+}
+
+@media(max-width: 515px) {
+    .btn1 {
+        top: 86%;
+        left: 31.5% !important;
+        width: 37%;
+        font-size: 1.4rem;
+    }
+    .main-info-1 {
+        top: 35%;
+        font-size: 2.8rem;
+    }
+    .main-info-2 {
+        top: 61%;
+        font-size: 2rem;
+    }
+    .footer {
+        width: 100%;
+    }
+    .footer a {
+        padding: 0 30px;
+    }
+    .benifits-heading {
+        font-size: 2.7rem;
+    }
+    .provides-heading {
+        font-size: 2.7rem !important;
+    }
+    .pricing-container h2 {
+        position: relative;
+        left: 2.5%;
+        font-size: 2.2rem;
+        padding: 0;
+        width: 95%;
+    }
+    .btn2 {
+        left: 31.5%;
+        width: 37%;
+        font-size: 1.4rem;
+    }
+    .pricing-container {
+        height: 770px !important;
+    }
+}
